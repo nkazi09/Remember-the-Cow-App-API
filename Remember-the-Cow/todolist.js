@@ -1,6 +1,5 @@
 /*
-Nadia Kazi, CSE 190M, 
-June 01, 2012, Section: MJ
+Nadia Kazi
 The purpose of this page is to allow the user create an todolist 
 and allows the user to add/remove, reorder the items in the list  
 as desired.
