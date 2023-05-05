@@ -2,8 +2,7 @@
 
 <?php
 /*
-Nadia Kazi, CSE 190M, 
-June 01, 2012, Section: MJ
+Nadia Kazi, 
 The purpose of this file is to create an inital page for the remember
 the cow site. This page displays a login form for the user to type in the
 username and password and uses submit button to login to the site. The page
