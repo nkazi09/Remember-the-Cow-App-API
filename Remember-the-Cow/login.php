@@ -1,7 +1,6 @@
 <?php
 /*
-Nadia Kazi, CSE 190M, 
-June 01, 2012, Section: MJ
+Nadia Kazi
 The file accepts the user input password and username.
 It checks if they are correct based on this it redirects the
 user to another page. if either username/password is not passed it 
