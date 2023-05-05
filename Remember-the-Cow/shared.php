@@ -1,7 +1,6 @@
 <?php
 /*
-Nadia Kazi, CSE 190M, 
-June 01, 2012, Section: MJ
+Nadia Kazi
 This file contains any shared PHP code or function
 used by multiple other file.
 */
