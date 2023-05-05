@@ -1,7 +1,6 @@
 <?php
 /*
-Nadia Kazi, CSE 190M, 
-June 01, 2012, Section: MJ
+Nadia Kazi
 This page allows the user to logout, the page gets redirect to the main page
 whcih is the index page.  
 */
