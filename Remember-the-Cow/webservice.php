@@ -1,7 +1,6 @@
 <?php
 /*
-Nadia Kazi, CSE 190M, 
-June 01, 2012, Section: MJ
+Nadia Kazi
 The purpose of this file is saving/loading the currect state of the user's to-do list   
 */
 
